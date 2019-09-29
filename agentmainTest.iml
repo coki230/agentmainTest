@@ -20,5 +20,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Maven: javassist:javassist:3.12.1.GA" level="project" />
   </component>
 </module>
